@@ -1,3 +1,2 @@
-# react-native-clean-architeture-template
+# memonote
 
-React Native clean architeture template
